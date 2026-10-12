@@ -11,12 +11,12 @@
 ### Student Academic Details
 > *Fill in your academic and course submission details below before final submission:*
 
-- **Student Name:** `[Your Full Name]`
-- **Registration / Roll Number:** `[Your Student ID / Roll Number]`
-- **Department / Specialization:** `[e.g., Computer Science / Information Technology]`
-- **Institution / University:** `[Your College / University Name]`
-- **Trainer / Instructor:** `[Trainer Name]`
-- **Submission Date:** `[Date of Submission]`
+- **Student Name:** Rajeshwari
+- **Course / Programme:** EWB Courses – Python with AI
+- **Registration / Roll Number:** `[Registration / Roll Number]`
+- **Department / Specialization:** `[Department / Specialization]`
+- **Institution / University:** `[Institution / University]`
+- **Submission Date:** October 2026
 
 ---
 
@@ -152,16 +152,8 @@ The system is implemented across modular, decoupled files to ensure clean separa
 
 ## 7. Output / Screenshots
 
-### How to Capture and Add Your Local Terminal Output
-1. Run the project in your terminal:
-   ```powershell
-   python main.py
-   ```
-2. Take a screenshot using `Win + Shift + S` on Windows.
-3. Save the image files in the `screenshots/` directory.
-4. Replace the placeholders below with the actual paths to your screenshots:
+### Actual Output Screenshots
 
-```markdown
 ![Dataset Inspection](screenshots/01_dataset_inspection.png)
 *Figure 1: Program Banner, Schema Inspection, and Data Quality Checks.*
 
@@ -176,7 +168,7 @@ The system is implemented across modular, decoupled files to ensure clean separa
 
 ![Unit Tests Passing](screenshots/05_unit_tests.png)
 *Figure 5: Verification of all 18 Unit Tests Passing with OK status.*
-```
+
 
 ### Verified Terminal Output Excerpt
 
