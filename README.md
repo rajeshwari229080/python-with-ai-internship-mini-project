@@ -121,8 +121,8 @@ The dataset is stored in `data/students.csv` and contains **25 records** across 
 
 ### Step 1: Clone or Open the Repository
 ```bash
-git clone https://github.com/[your-username]/student-performance-analytics.git
-cd student-performance-analytics
+git clone https://github.com/rajeshwari229080/python-with-ai-internship-mini-project.git
+cd python-with-ai-internship-mini-project
 ```
 
 ### Step 2: Create and Activate a Virtual Environment (Recommended on Windows)
@@ -232,7 +232,7 @@ Before submitting your repository link to the EWB evaluation form:
   git add .
   git commit -m "feat: complete student performance analytics project"
   git branch -M main
-  git remote add origin https://github.com/[your-username]/student-performance-analytics.git
+  git remote add origin https://github.com/rajeshwari229080/python-with-ai-internship-mini-project.git
   git push -u origin main
   ```
 - [ ] Ensure the repository is set to **Public** so reviewers can access it.

@@ -6,7 +6,7 @@
 
 **Project Name:** Student Performance Analytics Using Python  
 **Course / Programme:** EWB Courses – Python with AI  
-**Repository Name:** `student-performance-analytics`  
+**Repository Name:** `python-with-ai-internship-mini-project`  
 
 ### Student Academic Details
 > *Fill in your academic and course submission details below before final submission:*
@@ -264,8 +264,7 @@ The completed program answers all 12 key analytical questions with actual figure
 ## 10. GitHub Repository
 
 ### Repository Link
-> *Replace this placeholder with your public GitHub repository URL once created:*  
-**`https://github.com/[your-username]/student-performance-analytics`**
+**`https://github.com/rajeshwari229080/python-with-ai-internship-mini-project`**
 
 ### Steps to Publish Your Project to GitHub
 
@@ -278,7 +277,7 @@ The completed program answers all 12 key analytical questions with actual figure
 2. **Set Main Branch and Link Remote Repository:**
    ```powershell
    git branch -M main
-   git remote add origin https://github.com/[your-username]/student-performance-analytics.git
+   git remote add origin https://github.com/rajeshwari229080/python-with-ai-internship-mini-project.git
    ```
 3. **Push Code to GitHub:**
    ```powershell
