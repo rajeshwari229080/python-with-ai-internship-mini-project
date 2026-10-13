@@ -1,30 +1,15 @@
-# Byte-compiled / optimized / DLL files
+# ==========================================
+# Python Bytecode and Caches
+# ==========================================
 __pycache__/
 *.py[cod]
 *$py.class
+*.pyc
+*.pyo
 
-# C extensions
-*.so
-
-# Distribution / packaging
-.Python
-build/
-develop-eggs/
-dist/
-downloads/
-eggs/
-.eggs/
-lib/
-lib64/
-parts/
-sdist/
-var/
-wheels/
-*.egg-info/
-.installed.cfg
-*.egg
-
+# ==========================================
 # Virtual Environments
+# ==========================================
 .venv/
 venv/
 ENV/
@@ -32,19 +17,56 @@ env/
 env.bak/
 venv.bak/
 
-# IDE / Editor configuration
-.idea/
+# ==========================================
+# Distribution and Packaging
+# ==========================================
+build/
+dist/
+*.egg-info/
+*.egg
+wheels/
+
+# ==========================================
+# Unit Testing & Coverage
+# ==========================================
+.pytest_cache/
+.coverage
+htmlcov/
+.tox/
+.nox/
+coverage.xml
+*.cover
+
+# ==========================================
+# IDEs and Text Editors
+# ==========================================
 .vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
 *.swp
 *.swo
 *~
 
-# Operating System files
-.DS_Store
+# ==========================================
+# Operating System Artifacts
+# ==========================================
 Thumbs.db
 desktop.ini
+Desktop.ini
+.DS_Store
+*.bak
 
-# Testing & Coverage
-.pytest_cache/
-.coverage
-htmlcov/
+# ==========================================
+# Jupyter Notebook Checkpoints
+# ==========================================
+.ipynb_checkpoints/
+
+# ==========================================
+# Logs and Runtime Temporary Files
+# ==========================================
+*.log
+*.tmp
+temp_*.csv
+test_temp_*.csv
+scratch/
